@@ -5,3 +5,6 @@ Chain of Density (CoD) is a technique designed to enhance the summarization abil
 
 ![image](https://github.com/user-attachments/assets/cef4a7fb-f6a5-4080-be76-3d8242f566c6)
 Figure 1: The Chain of Density process using an example (From Sparse to Dense: GPT-4 Summarization with Chain of Density Prompting) 
+
+The data I use for this project is attached.
+The model I use for readability check: https://huggingface.co/trokhymovych/TRank_readability
