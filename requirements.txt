@@ -1,0 +1,5 @@
+python-dotenv
+py-llm-core
+openai==1.45.0
+textstat
+pandas
