@@ -8,7 +8,7 @@ Figure 1: The Chain of Density process using an example (From Sparse to Dense: G
 
 ## Summarizing Examples
 
-<img src="data/5323551520773497152.jpg" width="400">
+<img src="data/5323551520773497152.jpg" width="800">
 
 ## Structure
 - **CoD_prompting_research.ipynb**: A Jupyter notebook demonstrating the text summarizing algorithm in practice.
